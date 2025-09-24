@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @truong-trunghieu
 - 👀 I’m interested in Cybersecurity
 - 🌱 penetration tester
-- 📫 https://truong-trunghieu.github.io/cv.github.io/
+- 📫 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
